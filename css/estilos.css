@@ -176,6 +176,9 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	padding: 20px 20px;
 	width: 760px;
 }
+#content .hentry{
+	background: linear-gradient(#fff,#67B8DE,#CDEDFF);
+}
 
 /*
 	Sección Extras
