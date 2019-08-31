@@ -211,6 +211,10 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
 	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 185px;}
 
+	#extras .blogroll a:link, #extras .blogroll a:visited{
+		color: #363636;
+	}
+
 	/* Redes Sociales */
 	#extras .social {
 		float: right;
