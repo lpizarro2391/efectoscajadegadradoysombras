@@ -204,6 +204,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
 	/* Blogroll */
 	#extras .blogroll {
+		background: radial-gradient(#FFF,#3399CC,#FFF);
 		float: left;
 		width: 615px;
 	}
