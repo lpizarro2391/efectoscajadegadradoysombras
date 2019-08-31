@@ -137,6 +137,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 		text-decoration: none;
 	}
 	#banner nav a:hover, #banner nav a:active{
+		border-radius: 15px 10px;
 		background: hsla(200, 60%, 50%, 0.65);
 		text-shadow: none !important;
 	}
