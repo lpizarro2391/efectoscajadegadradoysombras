@@ -158,6 +158,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	overflow: hidden;
 	padding: 20px;
 	width: 760px;
+	border-radius: 50px 30px 15px 5px;
 }
 
 #featured h2 {font-size: 1.714em; margin-bottom: 0.333em;}
