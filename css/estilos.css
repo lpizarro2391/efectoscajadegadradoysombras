@@ -121,6 +121,9 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 		padding: 0;
 		text-align: center;
 		width: 800px;
+		border-radius: 5px;
+		-moz-border-radius:5px;
+		-webkit-border-radius:5px;
 	}
 
 	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
