@@ -217,6 +217,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
 	/* Redes Sociales */
 	#extras .social {
+		box-shadow: 30px 30px;
 		float: right;
 		width: 175px;
 	}
