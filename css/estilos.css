@@ -142,6 +142,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 		text-shadow: none !important;
 	}
 	#banner nav .active a:link, #banner nav .active a:visited {
+		border-radius: 15px 10px;
 		background: #3399CC;
 		text-shadow: none !important;
 	}
