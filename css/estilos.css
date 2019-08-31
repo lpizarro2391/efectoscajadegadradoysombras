@@ -234,7 +234,9 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	width: 760px;
 }
 
-#about .primary {float: left; width: 165px;}
+#about .primary {
+	box-shadow: 3px 5px 10px 0 rgba(0,0,0,0.2);
+	float: left; width: 165px;}
 #about .primary strong {display: block; font-size: 1.286em;}
 #about .photo {float: left; margin: 5px 20px;}
 
